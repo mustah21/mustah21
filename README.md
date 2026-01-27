@@ -14,7 +14,7 @@
 const mustafa = {
     pronouns: "He/Him",
     role: "Software Engineering Student",
-    currentFocus: "Building cool projects & mastering full-stack development",
+    currentFocus: "Java, full stack development, projects and devops",
     motto: "🎯 working always",
     askMeAbout: ["Web Development", "JavaScript", "Problem Solving"],
     funFact: "I turn coffee into code ☕➡️💻"
