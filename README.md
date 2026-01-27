@@ -37,7 +37,7 @@ const mustafa = {
 [![Phone](https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:YOUR_PHONE_NUMBER)
 
 📧 **Email:** mustafa345ahmad@gmail.com  
-📱 **Phone:** YOUR_PHONE_NUMBER  
+📱 **Phone:** +358 449302118  
 💼 **LinkedIn:** [Mustafa Ahmad](https://www.linkedin.com/in/mustafa-ahmad-002063332/)
 
 </div>
