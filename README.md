@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<p align="center">I am a passionate Software Engineering student focused on building scalable full-stack applications and exploring modern DevOps practices. My journey in software development is driven by curiosity and a commitment to continuous learning, always pushing to master new technologies and create impactful solutions.<p>
+<p align="center">I am a passionate Software Engineer focused on building scalabl applications and exploring modern practices. My journey in software development is driven primarily by the fun it brings after those sleepless nights.<p>
 
 <img align="right" alt="coding" width="380" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b95234mmto26tmlp2momyn9s559nzvva6xpkaf6k9rdl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustah21&label=Profile%20views&color=0e75b6&style=flat" alt="mustah21" />
 </p>
 
-- 🔭 I'm currently studying **Software Engineering.**
+- 🔭 I'm currently actively studying **Software Engineering**
   
-- 💬 Ask me about **Full-Stack Development, Java, Backend Architecture and DevOps & CI/CD.**
+- 🌱 I'm learning **Java, full-stack development, system desig, Development and Operations.**
   
-- 🌱 I'm learning **Java, full-stack development, scalable projects & DevOps.**
+- 📫 How to reach me: Personal email **mustafa345ahmad@gmail.com** | [LinkedIn](https://www.linkedin.com/in/mustafa-ahmad-002063332/)
   
-- 📫 How to reach me: Perosonal email **mustafa345ahmad@gmail.com** | [LinkedIn](https://www.linkedin.com/in/mustafa-ahmad-002063332/)
-  
-- ⚡ Fun fact: **I love football **
+- ⚡ Fun fact: **I love football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,10 +34,3 @@
 
 &nbsp;&nbsp; 
  
-## Profile Statistics 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustah21&show_icons=true&locale=en&layout=compact" alt="mustah21" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustah21&show_icons=true&locale=en" alt="mustah21" width="400" height="150" /></p>
