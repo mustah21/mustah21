@@ -28,9 +28,13 @@
 
 ## Featured Repositories
 
-- [First-Year](https://github.com/mustah21/First-Year): Academic projects and coursework from my first year of Software Engineering studies.
+- [First-Year](https://github.com/mustah21/First-Year): Academic projects and coursework from my first year of Software Engineering studies, all into one.
 - [SWE-Second-Year](https://github.com/mustah21/SWE-Second-Year): Advanced projects showcasing skills in JavaScript and modern web development.
-- [bookish-checking](https://github.com/mustah21/bookish-checking): A JavaScript-based application for managing and tracking books.
+- [bookish.fi](https://github.com/mustah21/bookish-checking): A JavaScript-based application for managing and tracking books.
+- [Java](https://github.com/mustah21/swe-java-assignments): A bag of several small scale java projects.
+- [Simulator](https://github.com/mustah21/java-simulator-projects): A simulation of Metropolia's caffeteria using javafx and java.
+- [Design patterns](https://github.com/mustah21/deisgn-patterns): Dipping my toes in the pros and cons of different design patterns.
+
 
 &nbsp;&nbsp; 
  
