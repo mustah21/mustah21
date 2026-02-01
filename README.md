@@ -5,11 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustah21&label=Profile%20views&color=0e75b6&style=flat" alt="mustah21" />
 </p>
 
-- 🔭 I'm currently actively studying **Software Engineering**
+- 🔭 I'm currently studying **Software Engineering**
   
-- 🌱 I'm learning **Java, full-stack development, system desig, Development and Operations.**
+- 🌱 I'm learning **Java, full-stack development, system design, Development and Operations.**
   
-- 📫 How to reach me: Personal email **mustafa345ahmad@gmail.com** | [LinkedIn](https://www.linkedin.com/in/mustafa-ahmad-002063332/)
+- 📫 How to reach me: Personal email **mustafa345ahmad@gmail.com** | **mustafa.ahmad@metropolia.fi** |
+ [LinkedIn](https://www.linkedin.com/in/mustafa-ahmad-002063332/) 
   
 - ⚡ Fun fact: **I love football**
 
