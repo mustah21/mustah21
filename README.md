@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<p align="center">I am a passionate Software Engineer focused on building scalable applications and exploring modern practices. My journey in software development is driven primarily by the fun it brings after those sleepless nights.<p>
+<p align="center">Passionate Software Engineer focused on building scalable applications and exploring modern practices. My journey in software development is driven primarily by the satisfaction it brings after those sleepless nights.<p>
 
 <img align="right" alt="coding" width="380" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b95234mmto26tmlp2momyn9s559nzvva6xpkaf6k9rdl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustah21&label=Profile%20views&color=0e75b6&style=flat" alt="mustah21" />
