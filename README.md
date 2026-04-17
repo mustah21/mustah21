@@ -34,7 +34,7 @@
 - [bookish.fi](https://github.com/mustah21/bookish-checking): A JavaScript-based application for managing and tracking books.
 - [Java](https://github.com/mustah21/swe-java-assignments): A bag of several small scale java projects.
 - [Simulator](https://github.com/mustah21/java-simulator-project): A simulation of Metropolia's cafeteria using javafx and java.
-- [Design patterns](https://github.com/mustah21/deisgn-patterns): Dipping my toes in the pros and cons of different design patterns.
+- [Design patterns](https://github.com/mustah21/design-patterns): Dipping my toes in the pros and cons of different design patterns.
 
 ***If a link appears to be broken, I might have made the repo private at some point.**
 
