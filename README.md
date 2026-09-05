@@ -4,8 +4,6 @@
 <img align="right" alt="coding" width="380" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b95234mmto26tmlp2momyn9s559nzvva6xpkaf6k9rdl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustah21&label=Profile%20views&color=0e75b6&style=flat" alt="mustah21" />
 </p>
-
--  **Software Engineering**
   
 - 📫 How to reach me: Personal email **mustafa345ahmad@gmail.com** | **mustafa.ahmad@metropolia.fi** |
  [LinkedIn](https://www.linkedin.com/in/mustafa-ahmad-002063332/) 
