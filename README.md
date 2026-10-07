@@ -28,11 +28,11 @@
 
 ## Featured Repositories
 
-- [First-Year](https://github.com/mustah21/First-Year): Academic projects from my first year of Software Engineering studies.
-- [SWE-Second-Year](https://github.com/mustah21/SWE-Second-Year): Advanced coursework projects in JavaScript and modern web development.
+- [SDLC](https://github.com/mustah21/personalized-study-planner): Following the complete SDLC to build a web-app.
 - [bookish.fi](https://github.com/mustah21/bookish-checking): A JavaScript app for managing and tracking books.
 - [Java](https://github.com/mustah21/swe-java-assignments): A collection of small-scale Java projects.
 - [Simulator](https://github.com/mustah21/java-simulator-project): A simulation of Metropolia's cafeteria built with JavaFX and Java.
 - [Design Patterns](https://github.com/mustah21/design-patterns): Exploring the trade-offs of different design patterns.
+- [ML-model](https://github.com/mustah21/slm-finance): Financial ML model with RAG implementation
 
 *If a link appears broken, the repo may have been made private.*
